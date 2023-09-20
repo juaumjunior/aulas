@@ -101,12 +101,12 @@ try
 	}
 	else
 	{
-		Console.WriteLine("voce e menor de idade sua ingua, vaza daqui:");
+		Console.WriteLine("voce é menor de idade sua ingua, vaza daqui:");
 	}
 }
 catch
 {
-	Console.WriteLine("e numero mano, para de ser burro");
+	Console.WriteLine("é numero mano, para de ser burro");
 }
 
 
