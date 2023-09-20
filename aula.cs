@@ -1,35 +1,7 @@
-﻿//tipos numericos:
-//int: armazena numeros inteiros com sinal. EX -10,0,42
-//uint: armazena numeros inteiros com sinal (positivos) ex 10,0,42
-//long: armazena numeros inteiros longos com sinal ex 456784546 (armazena mais casas que o int)
+//Teste
 
-//float: numero com ,
-//double: armazena numeros de ponto flutuante de precisao dupla (padrao valores decimais)
-//decimal: armazena numero decimal de alta precisao (usado mais em calculo financeiro)
 
-//bool: armazena valores verdadeiros (true) ou falsos (false)
 
-//texto
-//char: armazena um unico caractere
-//string: armazena sequencia de caracteres
-
-//tipo enumerados:
-//os enumerados (enum) permitem definir um conjunto de valores nomeados e atribui-los a uma variavel.
-//por exemplo, enum DiasDaSemana {segunda, terça, quarta, quinta, sexta, sabado, domingo}, geralmente
-//utilizados em listas com valores semelhantes.
-
-//tipos data e hora
-//DateTime: armazena data e hora
-//TimeSpan: Armazena uma duracao ou intervalo de tempo
-
-//outros tipos:
-//object: pode armazenar qualquer tipo de objeto (classes)
-//dynamic: Uma variavel de tipo dinamico que permite a mudança de tipo em tempo de execucao
-// object = classe = arquivo    
-//classe aluno
-//string nome
-//int idade
-//string endereco
 
 int idad = 0;
 decimal orcamento = 0;
