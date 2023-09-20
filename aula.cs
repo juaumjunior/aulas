@@ -18,13 +18,13 @@ try
 
 			if (idad >= 18)
 			{
-				if (idad <= 30)
+				if (idad <= 30 && idad >= 18)
 				{
 
 					Console.WriteLine("Voce tem duas opçoes, o plano padrao de R$ 30,00 e o plano premium de R$ 50,00");
 					Console.WriteLine("Qual voce deseja? padrao ou premium");
 
-					string tipoPlano = "";
+					string? tipoPlano = "";
 
 					tipoPlano = Console.ReadLine();
 
@@ -59,7 +59,7 @@ try
 					Console.WriteLine("Voce tem duas opçoes, o plano padrao de R$ 70,00 e o plano premium de R$ 100,00");
 					Console.WriteLine("Qual voce deseja? padrao ou premium");
 
-					string tipoPlano = "";
+					string? tipoPlano = "";
 
 					tipoPlano = Console.ReadLine();
 
